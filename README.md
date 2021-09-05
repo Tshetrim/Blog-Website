@@ -1,8 +1,5 @@
 # Blog-Website
-Simple frontend sign-up page with the backend using Node, Express, and the Mail Chimp API to create a functional database of subscribers to send marketing newsletters and emails.
+Full stack web application with JavaScript, and EJS for frontend. ongoDB and Mongoose for data. Node.js for backend. 
 
-Link to live Heroku Repository - check spam email after signing up.
-
-https://newsletter-tshetrim.herokuapp.com/
-
-Note: This does not have previous commits to remove exposed sensitive data. 
+Link to Heroku deplyoment: 
+https://blog-website-tshetrim.herokuapp.com/
